@@ -1,0 +1,6 @@
+__pycache__/
+export_files/
+gpio_test/
+graphs/
+sqls/copy_vkt_db.py
+sqls/create_vkt_db.py
